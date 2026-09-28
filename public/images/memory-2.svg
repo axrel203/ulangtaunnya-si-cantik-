@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#4c1d95"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg2)"/>
+  <!-- Crescent Moon -->
+  <path d="M 420 100 A 70 70 0 1 0 520 200 A 90 90 0 1 1 420 100 Z" fill="#fef08a" opacity="0.9"/>
+  <!-- Stars -->
+  <circle cx="100" cy="150" r="3" fill="#fff"/>
+  <circle cx="200" cy="80" r="2" fill="#fff"/>
+  <circle cx="350" cy="180" r="3" fill="#fff"/>
+  <circle cx="150" cy="300" r="2" fill="#fff"/>
+  <!-- Phone Waves -->
+  <path d="M 200 350 Q 300 280 400 350" stroke="#a855f7" stroke-width="4" fill="none" stroke-dasharray="6,6"/>
+  <circle cx="300" cy="315" r="25" fill="#e879f9" opacity="0.8"/>
+  <text x="300" y="322" fill="#fff" font-family="sans-serif" font-size="20" text-anchor="middle">🌙 📞</text>
+  <text x="300" y="480" fill="#e9d5ff" font-family="sans-serif" font-size="18" text-anchor="middle" font-weight="bold">Late Night Calls</text>
+</svg>
